@@ -1,11 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Limpiar el localStorage al cargar la página
+    // Limpiar el localStorage al cargar la página (opcional)
     //localStorage.clear();
 
+    // Actualizar la hora cada segundo
     const updateTime = () => {
         const now = new Date();
         document.getElementById('time').textContent = now.toLocaleTimeString('es-AR', {
-            timeZone: 'America/Argentina/Buenos_Aires', hour: '2-digit', minute: '2-digit', second: '2-digit'
+            timeZone: 'America/Argentina/Buenos_Aires',
+            hour: '2-digit',
+            minute: '2-digit',
+            second: '2-digit'
         });
     };
     setInterval(updateTime, 1000);
@@ -21,20 +25,29 @@ document.addEventListener('DOMContentLoaded', function() {
         window.location.href = 'login.html';
     });
 
-    // Botones para descargar y subir la base de datos
-    document.getElementById('traerBase').addEventListener('click', () => {
-        fetch('/downloadDatabase')
-            .then(response => response.json())
-            .then(data => alert(data.message))
-            .catch(error => console.error('Error al descargar la base de datos:', error));
+    document.getElementById('traerBase').addEventListener('click', async () => {
+        try {
+            const response = await fetch('/api/descargarbase');
+            if (!response.ok) throw new Error('Error al descargar la base de datos');
+            const result = await response.json();
+            alert(result.message || 'Base de datos descargada exitosamente');
+        } catch (error) {
+            console.error('Error al descargar la base de datos:', error);
+        }
     });
     
-    document.getElementById('subirBase').addEventListener('click', () => {
-        fetch('/uploadDatabase', { method: 'POST' })
-            .then(response => response.json())
-            .then(data => alert(data.message))
-            .catch(error => console.error('Error al subir la base de datos:', error));
+    document.getElementById('subirBase').addEventListener('click', async () => {
+        try {
+            const response = await fetch('/api/subirbase', { method: 'POST' });
+            if (!response.ok) throw new Error('Error al actualizar la base de datos');
+            const result = await response.json();
+            alert(result.message || 'Base de datos actualizada exitosamente');
+        } catch (error) {
+            console.error('Error al actualizar la base de datos:', error);
+        }
     });
+    
+    
 
     // Formulario para agregar notas
     document.querySelector('.note-form').addEventListener('submit', function(e) {
