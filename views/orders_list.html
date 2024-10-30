@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Pedidos</title>
+    <link rel="stylesheet" type="text/css" href="/assets/styles/orders_list.css">
+</head>
+<body>
+    <header class="main-header">
+        <a href ="main_menu.html" class="back-button">Menú Principal</a>
+        <h1>Pedidos</h1>
+        <select id="filter-status" class="status-filter">
+            <option value="todos">Todos</option>
+            <option value="guardado">Guardado</option>
+            <option value="confirmado">Confirmado</option>
+            <option value="cancelado">Cancelado</option>
+        </select>
+    </header>
+
+    <div class="order-list" id="order-list">
+        <!-- Lista de pedidos será llenada dinámicamente -->
+    </div>
+
+    <div id="order-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div id="modal-order-details"></div>
+            <button id="download-pdf" class="modal-button">Descargar PDF</button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
+    <script src="/js/send_order1.js"></script>
+    <script src="/js/orders_list.js"></script>
+</body>
+</html>

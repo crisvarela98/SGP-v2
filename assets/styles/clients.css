@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #222;
+  padding: 10px 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+.back-button, .new-client-button {
+    background-color: #C23D5C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin:10px 0px;
+}
+
+.back-button:hover, .new-client-button:hover {
+  background-color: #A32A44;
+}
+
+.content {
+  padding: 20px;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+.search-bar input {
+    width: 97%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #555;
+    background-color: #222;
+    color: #fff;
+}
+
+.client-list {
+  margin-top: 20px;
+}
+
+.client-list h2 {
+  margin-bottom: 10px;
+}
+
+.client-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.client-item {
+    background-color: #333;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s;
+    color: #fff;
+}
+
+.client-item:hover {
+    background-color: #444;
+}
+
+.client-actions {
+    margin-top: 10px;
+}
+
+.client-actions button {
+    margin-right: 10px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.client-actions button:hover {
+    background-color: #777;
+}
+
+/* Estilos para el modal de nuevo cliente y de historial de pedidos */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.order-section li{
+  border-bottom: double white 3px;
+  margin: 15px;}
+
+.modal-content {
+    background-color: #222;
+    margin: 15% auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 400px;
+    color: white;
+}
+
+.close-button, .close-history-button {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close-button:hover, .close-history-button:hover,
+.close-button:focus, .close-history-button:focus {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}

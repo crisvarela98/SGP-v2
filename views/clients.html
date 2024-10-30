@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clientes</title>
+    <link rel="stylesheet" type="text/css" href="/assets/styles/clients.css">
+</head>
+<body>
+    <header>
+        <button onclick="location.href='/views/main_menu.html'" class="back-button">Volver al menú principal</button>
+        <h1>Clientes</h1>
+    </header>
+
+    <div class="content">
+        <button class="new-client-button">Nuevo cliente</button>
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="Buscar cliente por ID, nombre o dirección">
+        </div>
+        <div class="client-list">
+            <h2>Listado de clientes</h2>
+            <ul id="client-list">
+                <!-- Lista de clientes se llena dinámicamente -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- Modal para mostrar historial de pedidos -->
+    <div id="history-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-history-button">&times;</span>
+            <h2>Historial de Pedidos</h2>
+            <ul id="order-history-list">
+                <!-- Lista de pedidos del cliente se llena dinámicamente -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- Modal para nuevo cliente -->
+    <div id="new-client-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2>Nuevo Cliente</h2>
+            <form id="new-client-form">
+                <label for="client-name">Nombre:</label>
+                <input type="text" id="client-name" required>
+                <label for="store-name">Nombre del Local:</label>
+                <input type="text" id="store-name" required>
+                <label for="address">Dirección:</label>
+                <input type="text" id="address" required>
+                <label for="phone">Teléfono:</label>
+                <input type="text" id="phone" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" required>
+                <label for="locality">Localidad:</label>
+                <input type="text" id="locality" required>
+                <label for="zone">Zona:</label>
+                <input type="text" id="zone" required>
+                <button type="submit">Guardar Cliente</button>
+            </form>
+        </div>
+    </div>
+
+
+    <script src="/js/clients.js"></script>
+</body>
+</html>

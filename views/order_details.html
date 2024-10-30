@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalles del Pedido</title>
+    <link rel="stylesheet" type="text/css" href="/assets/styles/order_details.css">
+</head>
+<body>
+    <header>
+        <button onclick="location.href='familias.html'" class="back-button">Volver</button>
+        <h1>Detalles del Pedido</h1>
+    </header>
+
+    <div class="content">
+        <div id="customer-info" class="customer-info">
+            <!-- Información del cliente se llena dinmicamente -->
+        </div>
+        
+        <div class="order-details" id="order-details">
+            <!-- Detalles del pedido se llenan dinmicamente -->
+        </div>
+
+        <div class="total-container">
+            <span>Subtotal:</span>
+            <span id="subtotal">$0.00</span>
+        </div>
+        <div class="total-container">
+            <span>IVA (21%):</span>
+            <span id="iva">$0.00</span>
+        </div>
+        <div class="total-container">
+            <span>Total:</span>
+            <span id="total-price">$0.00</span>
+        </div>
+
+        <div class="actions">
+            <a href="orders_list.html" id="save-order-link" class="order-action-link">Guardar pedido</a>
+            <a href="orders_list.html" id="confirm-order-link" class="order-action-link">Confirmar pedido</a>
+        </div>
+    </div>
+
+    <script src="/js/order_details.js"></script>
+    
+</body>
+</html>

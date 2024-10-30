@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #222;
+    padding: 10px 20px;
+}
+
+h1 {
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.back-button, .new-customer-button, .order-action-link {
+    background-color: #C23D5C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.back-button:hover, .new-customer-button:hover, .order-action-link:hover {
+    background-color: #A32A44;
+}
+
+.content {
+    padding: 20px;
+}
+
+.customer-selection {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.customer-selection label {
+    margin-right: 10px;
+}
+
+#customer-select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #333;
+    color: #fff;
+}
+
+.order-details {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    overflow-x: auto;
+}
+
+.order-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.order-table th, .order-table td {
+    border: 1px solid #555;
+    padding: 10px;
+    text-align: left;
+}
+
+.order-table th {
+    background-color: #333;
+    color: #fff;
+}
+
+.order-table td {
+    background-color: #444;
+    color: #fff;
+}
+
+.total-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.actions {
+    display: flex;
+    margin-top: 20px;
+}
+
+.actions button {
+    background-color: #C23D5C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    flex-grow: 1;
+    margin: 0 10px;
+    text-decoration:none;
+}
+
+.actions button:hover {
+    background-color: #A32A44;
+}
+
+
+.customer-info {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+.customer-info p {
+    margin: 5px 0;
+}

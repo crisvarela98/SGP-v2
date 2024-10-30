@@ -1,0 +1,600 @@
+[
+  {
+    "_id": "670e46d1d03695c3d113331d",
+    "id": "00000003",
+    "customer": {
+      "name": "María López",
+      "storeName": "Supermercado La Familia",
+      "address": "Av. Belgrano 1582, Recoleta",
+      "phone": "1146697600",
+      "email": "maría.lópez@yahoo.com"
+    },
+    "zone": "CABA",
+    "date": "15/10/2024, 7:41:21",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "NUCACE1159",
+        "descripcion": "Lata Oliva Puro 500 Nucete",
+        "unidades": 48,
+        "precioUnitario": 7085.65,
+        "descuento": "5,00",
+        "_id": "670e46d1d03695c3d113331e"
+      }
+    ],
+    "total": 340111.19999999995,
+    "createdAt": "2024-10-15T10:41:21.908Z",
+    "updatedAt": "2024-10-15T10:41:21.908Z",
+    "__v": 0
+  },
+  {
+    "_id": "670fab300d392b8c138f1f7a",
+    "id": "00000001",
+    "customer": {
+      "name": "Jorge Gómez",
+      "storeName": "Almacén de Barrio",
+      "address": "Av. Libertador 4009, Recoleta",
+      "phone": "1149033232",
+      "email": "jorge.gómez@gmail.com"
+    },
+    "zone": "CABA",
+    "date": "16/10/2024, 09:01:52",
+    "status": "cancelado",
+    "cart": [
+      {
+        "codigo": "PNTMTOSTA774372",
+        "descripcion": "Tost T.MARUCA arroz 120g",
+        "unidades": 10,
+        "precioUnitario": 591.3,
+        "descuento": "10,00",
+        "_id": "670fab300d392b8c138f1f7b"
+      },
+      {
+        "codigo": "ASMASC001825",
+        "descripcion": "Mascota Perro Dispens+2 rollos Asurín",
+        "unidades": 2,
+        "precioUnitario": 3965.21,
+        "descuento": "10+1",
+        "_id": "670fab300d392b8c138f1f7c"
+      },
+      {
+        "codigo": "ASMASC001122",
+        "descripcion": "Mascotas Gato x10 88x38 Asurín",
+        "unidades": 10,
+        "precioUnitario": 3185.46,
+        "descuento": "10+1",
+        "_id": "670fab300d392b8c138f1f7d"
+      },
+      {
+        "codigo": "ASMASC001122",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 1,
+        "precioUnitario": 0,
+        "_id": "670fab300d392b8c138f1f7e"
+      }
+    ],
+    "total": 45698.02,
+    "createdAt": "2024-10-16T12:01:52.253Z",
+    "updatedAt": "2024-10-16T12:02:40.812Z",
+    "__v": 0
+  },
+  {
+    "_id": "67116c2b9b97acae1fad0556",
+    "id": "00000002",
+    "customer": {
+      "name": "Jorge Gómez",
+      "storeName": "Almacén de Barrio",
+      "address": "Av. Libertador 4009, Recoleta",
+      "phone": "1149033232",
+      "email": "jorge.gómez@gmail.com"
+    },
+    "zone": "CABA",
+    "date": "17/10/2024, 04:57:31",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "TXAVENATR810934",
+        "descripcion": "Avena Tostex Tradicional 300g",
+        "unidades": 1,
+        "precioUnitario": 722.71,
+        "descuento": "0,00",
+        "_id": "67116c2b9b97acae1fad0557"
+      },
+      {
+        "codigo": "TXAVENAIN810941",
+        "descripcion": "Avena Tostex Instantanea 300g",
+        "unidades": 8,
+        "precioUnitario": 722.71,
+        "descuento": "0,00",
+        "_id": "67116c2b9b97acae1fad0558"
+      }
+    ],
+    "total": 6504.39,
+    "createdAt": "2024-10-17T19:57:31.226Z",
+    "updatedAt": "2024-10-23T16:08:56.973Z",
+    "__v": 0
+  },
+  {
+    "_id": "67118c7695244dda0d555bcf",
+    "id": "00000008",
+    "customer": {
+      "name": "Fernando Pérez",
+      "storeName": "Comercial Los Tres",
+      "address": "Calle Santa Fe 3197, Caballito",
+      "phone": "1152135639",
+      "email": "fernando.pérez@yahoo.com"
+    },
+    "zone": "CABA",
+    "date": "17/10/2024, 19:15:18",
+    "status": "cancelado",
+    "cart": [
+      {
+        "codigo": "CMCONARAN000662",
+        "descripcion": "Conf Arand s/az 450g El Bolsón",
+        "unidades": 6,
+        "precioUnitario": 3256.44,
+        "descuento": "0,00",
+        "_id": "67118c7695244dda0d555bd0"
+      },
+      {
+        "codigo": "CMCONBOSQ001126",
+        "descripcion": "Conf F.Bosqe s/az 450g El Bolsón",
+        "unidades": 40,
+        "precioUnitario": 3329.44,
+        "descuento": "0,00",
+        "_id": "67118c7695244dda0d555bd1"
+      },
+      {
+        "codigo": "CMCONFRUT000617",
+        "descripcion": "Conf Frutilla s/az 450g El Bolsón",
+        "unidades": 108,
+        "precioUnitario": 3619,
+        "descuento": "0,00",
+        "_id": "67118c7695244dda0d555bd2"
+      },
+      {
+        "codigo": "FFLILI007301",
+        "descripcion": "Licoritas x25u",
+        "unidades": 1,
+        "precioUnitario": 17652.3,
+        "descuento": "6,00",
+        "_id": "67118c7695244dda0d555bd3"
+      },
+      {
+        "codigo": "FFLIJA006328",
+        "descripcion": "Jackelin Estuche x 15u",
+        "unidades": 3,
+        "precioUnitario": 10639.25,
+        "descuento": "6,00",
+        "_id": "67118c7695244dda0d555bd4"
+      }
+    ],
+    "total": 593138.29,
+    "createdAt": "2024-10-17T22:15:18.222Z",
+    "updatedAt": "2024-10-17T22:15:56.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "6717c5ff6adae758144760f6",
+    "id": "00000001",
+    "customer": {
+      "name": "María López",
+      "storeName": "Supermercado La Familia",
+      "address": "Av. Belgrano 1582, Recoleta",
+      "phone": "1146697600",
+      "email": "maría.lópez@yahoo.com"
+    },
+    "zone": "CABA",
+    "date": "22/10/2024, 12:34:23 p.m.",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "CMCONSAUC000693",
+        "descripcion": "Conf Sauco s/az 450g El Bolsón",
+        "unidades": 14,
+        "precioUnitario": 4260.63,
+        "descuento": "0,00",
+        "_id": "6717c5ff6adae758144760f7"
+      }
+    ],
+    "total": 59648.82,
+    "createdAt": "2024-10-22T15:34:23.307Z",
+    "updatedAt": "2024-10-22T15:34:23.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "6717c862e004953b2167238a",
+    "id": "00000002",
+    "customer": {
+      "name": "María López",
+      "storeName": "Supermercado La Familia",
+      "address": "Av. Belgrano 1582, Recoleta",
+      "phone": "1146697600",
+      "email": "maría.lópez@yahoo.com"
+    },
+    "zone": "CABA",
+    "date": "22/10/2024, 12:44:34 p.m.",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "NUCACE1034",
+        "descripcion": "Balde Prem Aceit Verde 5kg Nucete",
+        "unidades": 4,
+        "precioUnitario": 20510.59,
+        "descuento": "5,00",
+        "_id": "6717c862e004953b2167238b"
+      }
+    ],
+    "total": 82042.36,
+    "createdAt": "2024-10-22T15:44:34.196Z",
+    "updatedAt": "2024-10-22T15:44:34.196Z",
+    "__v": 0
+  },
+  {
+    "_id": "6718126349cfa6dfc0bd5e3e",
+    "id": "00000001",
+    "customer": {
+      "name": "Pedro Vega",
+      "storeName": "Almacén Los Amigos",
+      "address": "Calle Lavalle 1505, Villa Ballester",
+      "phone": "1151356674",
+      "email": "pedro.vega@gmail.com"
+    },
+    "zone": "Zona Norte Noroeste",
+    "date": "22/10/2024, 6:00:19 p.m.",
+    "status": "confirmado",
+    "cart": [],
+    "total": 0,
+    "createdAt": "2024-10-22T21:00:20.016Z",
+    "updatedAt": "2024-10-22T21:00:20.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "671d3b6c55257161de5d8d5e",
+    "id": "00000011",
+    "customer": {
+      "name": "Lucía Vega",
+      "storeName": "Almacén Los Amigos",
+      "address": "Av. Corrientes 5481, Morón",
+      "phone": "1143324870",
+      "email": "lucía.vega@hotmail.com"
+    },
+    "zone": "Zona Oeste",
+    "date": "26/10/2024, 15:56:44",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "BOMONEDA105203",
+        "descripcion": "Moneda x100 Capitan Morgan 500g",
+        "unidades": 5,
+        "precioUnitario": 16806.79,
+        "descuento": "9,00",
+        "_id": "671d3b6c55257161de5d8d5f"
+      },
+      {
+        "codigo": "BOCHOCMAN096597",
+        "descripcion": "Chocman 35g BLACK (Negro)",
+        "unidades": 18,
+        "precioUnitario": 312.39,
+        "descuento": "10,00",
+        "_id": "671d3b6c55257161de5d8d60"
+      }
+    ],
+    "total": 89656.97000000002,
+    "createdAt": "2024-10-26T18:56:44.814Z",
+    "updatedAt": "2024-10-26T18:56:44.814Z",
+    "__v": 0
+  },
+  {
+    "_id": "6720fc3b8fd699c37ac3b030",
+    "__v": 0,
+    "customer": {
+      "name": "Chen S Y Wang M",
+      "storeName": "12225",
+      "address": "Montiel 1232"
+    },
+    "zone": "Q5",
+    "date": "29/10/2024, 12:09:04",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Plana Vde Nº5 Mediana x30 50x70 Asurín",
+        "unidades": 40,
+        "precioUnitario": 3323.05,
+        "total": 132922,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 4,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 132922,
+    "createdAt": "2024-10-29T15:09:04.392Z",
+    "updatedAt": "2024-10-29T15:09:04.392Z"
+  },
+  {
+    "_id": "6720fc3b8fd699c37ac3b031",
+    "__v": 0,
+    "customer": {
+      "name": "Chen Hongzhu (supermercado Bulnes)",
+      "storeName": "16111",
+      "address": "Bulnes 2641"
+    },
+    "zone": "P8",
+    "date": "29/10/2024, 12:09:15",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFLILI007301",
+        "descripcion": "Licoritas x25u",
+        "unidades": 1,
+        "precioUnitario": 17652.3,
+        "total": 17652.3,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFLIWH009312",
+        "descripcion": "Licorfort Whisky x30u",
+        "unidades": 1,
+        "precioUnitario": 18913.18,
+        "total": 18913.18,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFLIBO007363",
+        "descripcion": "Botellitas x20u",
+        "unidades": 1,
+        "precioUnitario": 18913.18,
+        "total": 18913.18,
+        "descuento": "6,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 55478.659999999996,
+    "createdAt": "2024-10-29T15:09:15.594Z",
+    "updatedAt": "2024-10-29T15:09:15.594Z"
+  },
+  {
+    "_id": "6720fc3b8fd699c37ac3b032",
+    "__v": 0,
+    "customer": {
+      "name": "Chen S Y Wang M",
+      "storeName": "12225",
+      "address": "Montiel 1232"
+    },
+    "zone": "Q5",
+    "date": "29/10/2024, 12:13:18",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "NUCACE7104",
+        "descripcion": "Sach Aceit  Verde 100g Nucete",
+        "unidades": 60,
+        "precioUnitario": 410.06,
+        "total": 24603.6,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 24603.6,
+    "createdAt": "2024-10-29T15:13:18.341Z",
+    "updatedAt": "2024-10-29T15:13:18.341Z"
+  },
+  {
+    "_id": "6720fd918fd699c37ac3b03b",
+    "__v": 0,
+    "customer": {
+      "name": "Chen S Y Wang M",
+      "storeName": "12225",
+      "address": "Montiel 1232"
+    },
+    "zone": "Q5",
+    "date": "29/10/2024, 12:09:04",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Plana Vde Nº5 Mediana x30 50x70 Asurín",
+        "unidades": 40,
+        "precioUnitario": 3323.05,
+        "total": 132922,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 4,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 132922,
+    "createdAt": "2024-10-29T15:09:04.392Z",
+    "updatedAt": "2024-10-29T15:09:04.392Z"
+  },
+  {
+    "_id": "6720fd918fd699c37ac3b03c",
+    "__v": 0,
+    "customer": {
+      "name": "Chen Hongzhu (supermercado Bulnes)",
+      "storeName": "16111",
+      "address": "Bulnes 2641"
+    },
+    "zone": "P8",
+    "date": "29/10/2024, 12:09:15",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFLILI007301",
+        "descripcion": "Licoritas x25u",
+        "unidades": 1,
+        "precioUnitario": 17652.3,
+        "total": 17652.3,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFLIWH009312",
+        "descripcion": "Licorfort Whisky x30u",
+        "unidades": 1,
+        "precioUnitario": 18913.18,
+        "total": 18913.18,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFLIBO007363",
+        "descripcion": "Botellitas x20u",
+        "unidades": 1,
+        "precioUnitario": 18913.18,
+        "total": 18913.18,
+        "descuento": "6,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 55478.659999999996,
+    "createdAt": "2024-10-29T15:09:15.594Z",
+    "updatedAt": "2024-10-29T15:09:15.594Z"
+  },
+  {
+    "_id": "6720fd918fd699c37ac3b03d",
+    "__v": 0,
+    "customer": {
+      "name": "Chen S Y Wang M",
+      "storeName": "12225",
+      "address": "Montiel 1232"
+    },
+    "zone": "Q5",
+    "date": "29/10/2024, 12:13:18",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "NUCACE7104",
+        "descripcion": "Sach Aceit  Verde 100g Nucete",
+        "unidades": 60,
+        "precioUnitario": 410.06,
+        "total": 24603.6,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 24603.6,
+    "createdAt": "2024-10-29T15:13:18.341Z",
+    "updatedAt": "2024-10-29T15:13:18.341Z"
+  },
+  {
+    "_id": "6720fdeea0ac5e6ff04228ce",
+    "__v": 0,
+    "customer": {
+      "name": "Chen S Y Wang M",
+      "storeName": "12225",
+      "address": "Montiel 1232"
+    },
+    "zone": "Q5",
+    "date": "29/10/2024, 12:09:04",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Plana Vde Nº5 Mediana x30 50x70 Asurín",
+        "unidades": 40,
+        "precioUnitario": 3323.05,
+        "total": 132922,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 4,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 132922,
+    "createdAt": "2024-10-29T15:09:04.392Z",
+    "updatedAt": "2024-10-29T15:09:04.392Z"
+  },
+  {
+    "_id": "6720fdeea0ac5e6ff04228cf",
+    "__v": 0,
+    "customer": {
+      "name": "Chen Hongzhu (supermercado Bulnes)",
+      "storeName": "16111",
+      "address": "Bulnes 2641"
+    },
+    "zone": "P8",
+    "date": "29/10/2024, 12:09:15",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFLILI007301",
+        "descripcion": "Licoritas x25u",
+        "unidades": 1,
+        "precioUnitario": 17652.3,
+        "total": 17652.3,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFLIWH009312",
+        "descripcion": "Licorfort Whisky x30u",
+        "unidades": 1,
+        "precioUnitario": 18913.18,
+        "total": 18913.18,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFLIBO007363",
+        "descripcion": "Botellitas x20u",
+        "unidades": 1,
+        "precioUnitario": 18913.18,
+        "total": 18913.18,
+        "descuento": "6,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 55478.659999999996,
+    "createdAt": "2024-10-29T15:09:15.594Z",
+    "updatedAt": "2024-10-29T15:09:15.594Z"
+  },
+  {
+    "_id": "6720fdeea0ac5e6ff04228d0",
+    "__v": 0,
+    "customer": {
+      "name": "Chen S Y Wang M",
+      "storeName": "12225",
+      "address": "Montiel 1232"
+    },
+    "zone": "Q5",
+    "date": "29/10/2024, 12:13:18",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "NUCACE7104",
+        "descripcion": "Sach Aceit  Verde 100g Nucete",
+        "unidades": 60,
+        "precioUnitario": 410.06,
+        "total": 24603.6,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 24603.6,
+    "createdAt": "2024-10-29T15:13:18.341Z",
+    "updatedAt": "2024-10-29T15:13:18.341Z"
+  }
+]

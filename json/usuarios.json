@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "671e59c0ff5d01ccf0e6c988",
+    "CodVend": 11,
+    "NomVend": "Marcela Arias - Volante",
+    "Usuario": "Marias",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c989",
+    "CodVend": 53,
+    "NomVend": "Nicolas Sosa - Volante",
+    "Usuario": "Nsosa",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c98d",
+    "CodVend": 16,
+    "NomVend": "Nicolas Valdes",
+    "Usuario": "nvaldes",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c984",
+    "CodVend": 14,
+    "NomVend": "Fernando Moro",
+    "Usuario": "Fmoro",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c98a",
+    "CodVend": 99,
+    "NomVend": "Administrador",
+    "Usuario": "Admin",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c985",
+    "CodVend": 17,
+    "NomVend": "Gladys Ruiz Diaz Roa",
+    "Usuario": "Gruiz",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c987",
+    "CodVend": 18,
+    "NomVend": "Marcela Arias",
+    "Usuario": "Amarcela",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c98b",
+    "CodVend": 98,
+    "NomVend": "Cristian varela",
+    "Usuario": "Cvarela",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c98c",
+    "CodVend": 97,
+    "NomVend": "Ivan Pogio",
+    "Usuario": "Ipogio",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c983",
+    "CodVend": 2,
+    "NomVend": "Antonella Garcia",
+    "Usuario": "Agarcia",
+    "Contraseña": 1234
+  },
+  {
+    "_id": "671e59c0ff5d01ccf0e6c986",
+    "CodVend": 19,
+    "NomVend": "Gladys Ruiz Diaz Roa - Volante",
+    "Usuario": "Grdiaz",
+    "Contraseña": 1234
+  }
+]

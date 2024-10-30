@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "14-00000001",
+    "customer": {
+      "name": "Chen S Y Wang M",
+      "storeName": "12225",
+      "address": "Montiel 1232"
+    },
+    "zone": "Q5",
+    "date": "29/10/2024, 12:09:04",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Plana Vde Nº5 Mediana x30 50x70 Asurín",
+        "unidades": 40,
+        "precioUnitario": 3323.05,
+        "total": 132922,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 4,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 132922,
+    "createdAt": "2024-10-29T15:09:04.392Z",
+    "updatedAt": "2024-10-29T15:09:04.392Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000002",
+    "customer": {
+      "name": "Chen Hongzhu (supermercado Bulnes)",
+      "storeName": "16111",
+      "address": "Bulnes 2641"
+    },
+    "zone": "P8",
+    "date": "29/10/2024, 12:09:15",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFLILI007301",
+        "descripcion": "Licoritas x25u",
+        "unidades": 1,
+        "precioUnitario": 17652.3,
+        "total": 17652.3,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFLIWH009312",
+        "descripcion": "Licorfort Whisky x30u",
+        "unidades": 1,
+        "precioUnitario": 18913.18,
+        "total": 18913.18,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFLIBO007363",
+        "descripcion": "Botellitas x20u",
+        "unidades": 1,
+        "precioUnitario": 18913.18,
+        "total": 18913.18,
+        "descuento": "6,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 55478.659999999996,
+    "createdAt": "2024-10-29T15:09:15.594Z",
+    "updatedAt": "2024-10-29T15:09:15.594Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000003",
+    "customer": {
+      "name": "Chen S Y Wang M",
+      "storeName": "12225",
+      "address": "Montiel 1232"
+    },
+    "zone": "Q5",
+    "date": "29/10/2024, 12:13:18",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "NUCACE7104",
+        "descripcion": "Sach Aceit  Verde 100g Nucete",
+        "unidades": 60,
+        "precioUnitario": 410.06,
+        "total": 24603.6,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 24603.6,
+    "createdAt": "2024-10-29T15:13:18.341Z",
+    "updatedAt": "2024-10-29T15:13:18.341Z",
+    "__v": 0
+  },
+  {
+    "_id": "s8nhezl27",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Chen Xunhua (super Fine)",
+      "storeName": "13483",
+      "address": "San Isidro Labrador Av. 4233"
+    },
+    "zone": "M7",
+    "date": "29/10/2024, 1:04:31",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:04:31.259Z",
+    "updatedAt": "2024-10-29T04:04:31.260Z",
+    "__v": 0
+  },
+  {
+    "_id": "bwn63zbbl",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Norwint W Hijos S.h.",
+      "storeName": "006656",
+      "address": "Corrientes Av. 2921"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:08:58",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:08:58.668Z",
+    "updatedAt": "2024-10-29T04:08:58.668Z",
+    "__v": 0
+  },
+  {
+    "_id": "lshnikeab",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Zhang Fen Xiang",
+      "storeName": "11886",
+      "address": "Jean Jaures  329"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:19:06",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:19:06.017Z",
+    "updatedAt": "2024-10-29T04:19:06.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "3fo813y54",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Chen Xueting",
+      "storeName": "15728",
+      "address": "Jean Jaures  390"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:36:31",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 11218.32,
+    "createdAt": "2024-10-29T04:36:31.643Z",
+    "updatedAt": "2024-10-29T04:36:31.643Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000001",
+    "customer": {
+      "name": "Zheng Yunhong  (sup. Pollito)",
+      "storeName": "16176",
+      "address": "Paroissien 1763"
+    },
+    "zone": "M7",
+    "date": "29/10/2024, 21:13:49",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "NUCACE3435",
+        "descripcion": "Fco Prem Aceit Verde Desc 180g Nucete",
+        "unidades": 48,
+        "precioUnitario": 1529.68,
+        "total": 73424.64,
+        "descuento": "5,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "NUCACE3450",
+        "descripcion": "Fco Prem Aceit Verde 220g Nucete",
+        "unidades": 24,
+        "precioUnitario": 1391.14,
+        "total": 33387.36,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 118030.31999999999,
+    "createdAt": "2024-10-30T00:13:49.863Z",
+    "updatedAt": "2024-10-30T00:13:49.863Z",
+    "__v": 0
+  },
+  {
+    "_id": "s8nhezl27",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Chen Xunhua (super Fine)",
+      "storeName": "13483",
+      "address": "San Isidro Labrador Av. 4233"
+    },
+    "zone": "M7",
+    "date": "29/10/2024, 1:04:31",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:04:31.259Z",
+    "updatedAt": "2024-10-29T04:04:31.260Z",
+    "__v": 0
+  },
+  {
+    "_id": "bwn63zbbl",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Norwint W Hijos S.h.",
+      "storeName": "006656",
+      "address": "Corrientes Av. 2921"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:08:58",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:08:58.668Z",
+    "updatedAt": "2024-10-29T04:08:58.668Z",
+    "__v": 0
+  },
+  {
+    "_id": "lshnikeab",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Zhang Fen Xiang",
+      "storeName": "11886",
+      "address": "Jean Jaures  329"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:19:06",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:19:06.017Z",
+    "updatedAt": "2024-10-29T04:19:06.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "3fo813y54",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Chen Xueting",
+      "storeName": "15728",
+      "address": "Jean Jaures  390"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:36:31",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 11218.32,
+    "createdAt": "2024-10-29T04:36:31.643Z",
+    "updatedAt": "2024-10-29T04:36:31.643Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000001",
+    "customer": {
+      "name": "Zheng Yunhong  (sup. Pollito)",
+      "storeName": "16176",
+      "address": "Paroissien 1763"
+    },
+    "zone": "M7",
+    "date": "29/10/2024, 21:13:49",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "NUCACE3435",
+        "descripcion": "Fco Prem Aceit Verde Desc 180g Nucete",
+        "unidades": 48,
+        "precioUnitario": 1529.68,
+        "total": 73424.64,
+        "descuento": "5,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "NUCACE3450",
+        "descripcion": "Fco Prem Aceit Verde 220g Nucete",
+        "unidades": 24,
+        "precioUnitario": 1391.14,
+        "total": 33387.36,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 118030.31999999999,
+    "createdAt": "2024-10-30T00:13:49.863Z",
+    "updatedAt": "2024-10-30T00:13:49.863Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000002",
+    "customer": {
+      "name": "Zheng Yu Hua (sup. Sofia)",
+      "storeName": "15039",
+      "address": "Corrientes Av. 2876"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 22:47:29",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "NUCACE7102",
+        "descripcion": "Sach Aceit Negra 100g Nucete",
+        "unidades": 60,
+        "precioUnitario": 451.2,
+        "total": 27072,
+        "descuento": "5,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "NUCACE7106",
+        "descripcion": "Sach Aceit  Verde Descar 80g Nucete",
+        "unidades": 60,
+        "precioUnitario": 450.74,
+        "total": 27044.4,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 54116.4,
+    "createdAt": "2024-10-30T01:47:29.802Z",
+    "updatedAt": "2024-10-30T01:47:29.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "s8nhezl27",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Chen Xunhua (super Fine)",
+      "storeName": "13483",
+      "address": "San Isidro Labrador Av. 4233"
+    },
+    "zone": "M7",
+    "date": "29/10/2024, 1:04:31",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:04:31.259Z",
+    "updatedAt": "2024-10-29T04:04:31.260Z",
+    "__v": 0
+  },
+  {
+    "_id": "bwn63zbbl",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Norwint W Hijos S.h.",
+      "storeName": "006656",
+      "address": "Corrientes Av. 2921"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:08:58",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:08:58.668Z",
+    "updatedAt": "2024-10-29T04:08:58.668Z",
+    "__v": 0
+  },
+  {
+    "_id": "lshnikeab",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Zhang Fen Xiang",
+      "storeName": "11886",
+      "address": "Jean Jaures  329"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:19:06",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Arito de Cebolla 80g 2Hermanos",
+        "unidades": 10,
+        "precioUnitario": 738.75,
+        "total": 7387.5,
+        "descuento": "8+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "DHSNACEBO000296",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "CF Consorcio x10 60x95 Asurín Limón",
+        "unidades": 40,
+        "precioUnitario": 3281.1,
+        "total": 131244,
+        "descuento": "10+2",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000378",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 8,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 149849.82,
+    "createdAt": "2024-10-29T04:19:06.017Z",
+    "updatedAt": "2024-10-29T04:19:06.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "3fo813y54",
+    "id": "14-00000001",
+    "customer": {
+      "name": "Chen Xueting",
+      "storeName": "15728",
+      "address": "Jean Jaures  390"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 1:36:31",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 11218.32,
+    "createdAt": "2024-10-29T04:36:31.643Z",
+    "updatedAt": "2024-10-29T04:36:31.643Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000001",
+    "customer": {
+      "name": "Zheng Yunhong  (sup. Pollito)",
+      "storeName": "16176",
+      "address": "Paroissien 1763"
+    },
+    "zone": "M7",
+    "date": "29/10/2024, 21:13:49",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "NUCACE3435",
+        "descripcion": "Fco Prem Aceit Verde Desc 180g Nucete",
+        "unidades": 48,
+        "precioUnitario": 1529.68,
+        "total": 73424.64,
+        "descuento": "5,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "NUCACE3450",
+        "descripcion": "Fco Prem Aceit Verde 220g Nucete",
+        "unidades": 24,
+        "precioUnitario": 1391.14,
+        "total": 33387.36,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 118030.31999999999,
+    "createdAt": "2024-10-30T00:13:49.863Z",
+    "updatedAt": "2024-10-30T00:13:49.863Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000002",
+    "customer": {
+      "name": "Zheng Yu Hua (sup. Sofia)",
+      "storeName": "15039",
+      "address": "Corrientes Av. 2876"
+    },
+    "zone": "N2",
+    "date": "29/10/2024, 22:47:29",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "NUCACE7102",
+        "descripcion": "Sach Aceit Negra 100g Nucete",
+        "unidades": 60,
+        "precioUnitario": 451.2,
+        "total": 27072,
+        "descuento": "5,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "NUCACE7106",
+        "descripcion": "Sach Aceit  Verde Descar 80g Nucete",
+        "unidades": 60,
+        "precioUnitario": 450.74,
+        "total": 27044.4,
+        "descuento": "5,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 54116.4,
+    "createdAt": "2024-10-30T01:47:29.802Z",
+    "updatedAt": "2024-10-30T01:47:29.806Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000003",
+    "customer": {
+      "name": "Wang Xiaofeng",
+      "storeName": "17591",
+      "address": "French 2424"
+    },
+    "zone": "B2",
+    "date": "29/10/2024, 23:07:20",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "ASMASC001825",
+        "descripcion": "Mascota Perro Dispens+2 rollos Asurín",
+        "unidades": 20,
+        "precioUnitario": 3965.21,
+        "total": 79304.2,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASMASC001825",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 2,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 79304.2,
+    "createdAt": "2024-10-30T02:07:20.460Z",
+    "updatedAt": "2024-10-30T02:07:20.461Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000001",
+    "customer": {
+      "name": "Ye Yun Szhu                 []",
+      "storeName": "11333",
+      "address": "Junin 1490"
+    },
+    "zone": "B2",
+    "date": "30/10/2024, 1:47:11",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "ASBOLS000019",
+        "descripcion": "Plana Nº3 Normal x10 45x60 Asurín",
+        "unidades": 120,
+        "precioUnitario": 740.85,
+        "total": 88902,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000019",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 12,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 88902,
+    "createdAt": "2024-10-30T04:47:11.499Z",
+    "updatedAt": "2024-10-30T04:47:11.502Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000001",
+    "customer": {
+      "name": "Ye Yun Szhu                 []",
+      "storeName": "11333",
+      "address": "Junin 1490"
+    },
+    "zone": "B2",
+    "date": "30/10/2024, 1:47:11",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "ASBOLS000019",
+        "descripcion": "Plana Nº3 Normal x10 45x60 Asurín",
+        "unidades": 120,
+        "precioUnitario": 740.85,
+        "total": 88902,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000019",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 12,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 88902,
+    "createdAt": "2024-10-30T04:47:11.499Z",
+    "updatedAt": "2024-10-30T04:47:11.502Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000002",
+    "customer": {
+      "name": "Yao Suyin",
+      "storeName": "11436",
+      "address": "Uriburu Jose E. Pte.  219"
+    },
+    "zone": "N5",
+    "date": "30/10/2024, 1:47:43",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "PNTMTOSTA774372",
+        "descripcion": "Tost T.MARUCA arroz 120g",
+        "unidades": 2,
+        "precioUnitario": 591.3,
+        "total": 1182.6,
+        "descuento": "10,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 1182.6,
+    "createdAt": "2024-10-30T04:47:43.670Z",
+    "updatedAt": "2024-10-30T04:47:43.670Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000001",
+    "customer": {
+      "name": "Ye Yun Szhu                 []",
+      "storeName": "11333",
+      "address": "Junin 1490"
+    },
+    "zone": "B2",
+    "date": "30/10/2024, 1:47:11",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "ASBOLS000019",
+        "descripcion": "Plana Nº3 Normal x10 45x60 Asurín",
+        "unidades": 120,
+        "precioUnitario": 740.85,
+        "total": 88902,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS000019",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 12,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 88902,
+    "createdAt": "2024-10-30T04:47:11.499Z",
+    "updatedAt": "2024-10-30T04:47:11.502Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000002",
+    "customer": {
+      "name": "Yao Suyin",
+      "storeName": "11436",
+      "address": "Uriburu Jose E. Pte.  219"
+    },
+    "zone": "N5",
+    "date": "30/10/2024, 1:47:43",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "PNTMTOSTA774372",
+        "descripcion": "Tost T.MARUCA arroz 120g",
+        "unidades": 2,
+        "precioUnitario": 591.3,
+        "total": 1182.6,
+        "descuento": "10,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 1182.6,
+    "createdAt": "2024-10-30T04:47:43.670Z",
+    "updatedAt": "2024-10-30T04:47:43.670Z",
+    "__v": 0
+  },
+  {
+    "id": "14-00000003",
+    "customer": {
+      "name": "Ye Yun Szhu                 []",
+      "storeName": "11333",
+      "address": "Junin 1490"
+    },
+    "zone": "B2",
+    "date": "30/10/2024, 1:49:03",
+    "status": "guardado",
+    "cart": [
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Plana Vde Nº5 Mediana x30 50x70 Asurín",
+        "unidades": 40,
+        "precioUnitario": 3323.05,
+        "total": 132922,
+        "descuento": "10+1",
+        "bonificacion": false
+      },
+      {
+        "codigo": "ASBOLS001733",
+        "descripcion": "Producto (Bonificación)",
+        "unidades": 4,
+        "precioUnitario": 0,
+        "total": 0,
+        "bonificacion": true
+      }
+    ],
+    "total": 132922,
+    "createdAt": "2024-10-30T04:49:03.477Z",
+    "updatedAt": "2024-10-30T04:49:03.477Z",
+    "__v": 0
+  }
+]

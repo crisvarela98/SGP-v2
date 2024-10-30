@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    padding: 10px 0px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    
+}
+
+.back-button {
+    background-color: #C23D5C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+    position: absolute;
+    left: 0;
+    transition: background-color 0.3s;
+}
+
+h1 {
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+}
+
+
+.back-button:hover {
+    background-color: #A32A44;
+}
+
+.container {
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#zonaContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.zona-button {
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
+    padding: 15px;
+    margin: 20px;
+    font-size: 38px;
+    color: #fff;
+    border: 2px solid #C23D5C;
+    background-color: #333;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.zona-button:hover {
+    background-color: #A32A44;
+}

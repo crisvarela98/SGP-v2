@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <title>Productos Filtrados</title>
+    <link rel="stylesheet" type="text/css" href="/assets/styles/productos.css">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <button onclick="location.href='marcas.html'" class="back-button">Volver a Marcas</button>
+            <button onclick="location.href='familias.html'" class="back-button">Volver a Familias</button>
+        </div>
+        <div class="header-right">
+            <button id="verPedidoBtn" class="view-order-button" onclick="verPedido()">
+                <span>Pedidos</span><br>
+                <p id="artAgregados">ART. Agregados: 0</p>
+            </button>
+        </div>
+    </header>
+
+    <div class="container">
+        <div id="productosContainer"></div>
+    </div>
+    
+    <script src="/js/productos.js"></script>
+</body>
+</html>

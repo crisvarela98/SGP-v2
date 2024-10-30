@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú Principal</title>
+    <link rel="stylesheet" type="text/css" href="/assets/styles/main_menu.css">
+</head>
+
+<body>
+    <header>
+    <button id ="traerBase">Descargar<br>Base de datos</button>
+    <div id="time"></div>
+    <button id ="subirBase">Actualizar<br>Base de datos</button>
+    </header>
+
+        <div class="container">
+        <a href="zona.html" class="button">Nuevo pedido</a>
+        <a href="orders_list.html" class="button">Pedidos realizados</a>
+        <a href="clients.html" class="button">Clientes</a>
+        </div>
+    
+    <!-- Sistema de notas locales -->
+    <div class="note-container">
+        <form class="note-form">
+            <textarea class="note-input" placeholder="Escribe tu nota aquí..."></textarea>
+            <button type="submit">Agregar Nota</button>
+            <button class="open-popup">Ver Notas</button>
+        </form>
+        
+    </div>
+
+    <!-- Popup para mostrar las notas -->
+    <div class="popup">
+        <div class="popup-content">
+            <span class="close-popup">&times;</span>
+            <div class="notes"></div>
+        </div>
+    </div>
+
+    <div class="message"></div>
+    
+    <footer>
+        <div id="welcome-message"></div>
+        <button id="logout-button">Log out</button>
+    </footer>
+
+    <script src="/js/main_menu.js"></script>
+</html>
+

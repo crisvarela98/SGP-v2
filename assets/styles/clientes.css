@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden; /* Evitar desplazamiento horizontal */
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    padding: 10px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.back-button {
+    background-color: #C23D5C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    left: 0;
+    transition: background-color 0.3s;
+}
+
+.back-button:hover {
+    background-color: #A32A44;
+}
+
+h1 {
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+}
+
+h2 {
+    display: inline-block;
+    font-size:  40px;
+}
+
+.container {
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#clienteContainer {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.cliente-button {
+    padding: 15px;
+    margin: 10px;
+    font-size: 30px; /* Ajuste del tamaño de fuente para mejorar la legibilidad */
+    background-color: #333;
+    color: #fff;
+    border: 2px solid #C23D5C;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-align: center; /* Centrar texto dentro del botón */
+}
+
+.cliente-button:hover {
+    background-color: #A32A44;
+}
+
+.clientes-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.clientes-table th, .clientes-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.clientes-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.clientes-table tr:hover {
+    background-color: #ddd;
+}
+
+.clientes-table th {
+    background-color: #C23D5C;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}

@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #222;
+    padding: 10px 20px;
+}
+
+h1 {
+    color: #fff;
+    margin-top: 20px;
+}
+
+.back-button, .view-order-button {
+    background-color: #C23D5C;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.back-button:hover, .view-order-button:hover {
+    background-color: #A32A44;
+}
+
+.filters {
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+.filter {
+    margin-bottom: 20px;
+}
+
+label {
+    color: #fff;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #555;
+    background-color: #444;
+    color: #fff;
+}
+
+.product-list {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+}
