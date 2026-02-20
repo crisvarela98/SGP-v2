@@ -5,7 +5,7 @@ const descargarBase = require('./api/descargarbase'); // Archivo para descargar 
 const subirBase = require('./api/subirbase'); // Archivo para subir datos
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 app.use(express.json());
 
@@ -34,6 +34,6 @@ app.post('/api/subirbase', async (req, res) => {
 });
 
 // Inicia el servidor en el puerto especificado
-app.listen(PORT, () => {
-    console.log(`Servidor funcionando en el puerto ${PORT} - http://localhost:${PORT}`);
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Servidor funcionando en el puerto ${PORT} - http://0.0.0.0:${PORT}`);
 });
