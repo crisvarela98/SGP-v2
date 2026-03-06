@@ -1156,5 +1156,75 @@
     "createdAt": "2024-10-30T04:49:03.477Z",
     "updatedAt": "2024-10-30T04:49:03.477Z",
     "__v": 0
+  },
+  {
+    "id": "53-00000001",
+    "customer": {
+      "name": "Chen Yun",
+      "storeName": "11410",
+      "address": "Pavon 3837"
+    },
+    "zone": "Q4",
+    "date": "19/2/2026, 11:13:00 p.m.",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "FFBOMA006106",
+        "descripcion": "Marroc x60",
+        "unidades": 1,
+        "precioUnitario": 30373.16,
+        "total": 30373.16,
+        "descuento": "6,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "FFBOMA006120",
+        "descripcion": "Marroc Estuche 20u",
+        "unidades": 1,
+        "precioUnitario": 11218.32,
+        "total": 11218.32,
+        "descuento": "6,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 41591.479999999996,
+    "createdAt": "2026-02-20T02:13:00.464Z",
+    "updatedAt": "2026-02-20T02:13:00.464Z",
+    "__v": 0
+  },
+  {
+    "id": "53-00000001",
+    "customer": {
+      "name": "Huang Bing Feng",
+      "storeName": "010423",
+      "address": "Juarez Benito 2563"
+    },
+    "zone": "Q9",
+    "date": "20/2/2026, 12:08:24 a.m.",
+    "status": "confirmado",
+    "cart": [
+      {
+        "codigo": "PNTMTOSTA743849",
+        "descripcion": "Tost T.MARUCA arroz 120g s/Sal",
+        "unidades": 3,
+        "precioUnitario": 591.3,
+        "total": 1773.8999999999999,
+        "descuento": "10,00",
+        "bonificacion": false
+      },
+      {
+        "codigo": "PNTMTOSTA774372",
+        "descripcion": "Tost T.MARUCA arroz 120g",
+        "unidades": 10,
+        "precioUnitario": 591.3,
+        "total": 5913,
+        "descuento": "10,00",
+        "bonificacion": false
+      }
+    ],
+    "total": 7686.9,
+    "createdAt": "2026-02-20T03:08:24.907Z",
+    "updatedAt": "2026-02-20T03:08:24.907Z",
+    "__v": 0
   }
 ]
